@@ -1,0 +1,128 @@
+#header3{
+			background: url("foods2share01.jpg");
+			background-color: blue;
+			box-shadow:5px 5px 100px white;
+			background-size:100% 100%;
+			
+			padding:78px;
+		}
+
+h1
+		{
+			color:#8A0808;
+			text-align:center;
+			text-shadow: 2px 2px white; 
+		}	
+		
+table	{
+			width:50%; 
+			margin-left:auto; 
+			margin-right:auto; 
+			border: 1px sothd black;    
+			border-collapse: collapse;
+		}
+		
+td
+		{
+			text-align:center;
+			text-transform: capitathze;
+			letter-spacing: 2px;
+			height:0px;
+			font-style: itathc;
+			font-weight: bold;
+		}
+		
+section 
+		{ 
+			background-color:#E6E6E6;
+			width:35%;border:15px ridge red;
+			padding:20px;
+			border-radius:25px;
+			color:#08088A;
+			box-shadow:5px 5px blue;
+			text-align:justify;
+			float:left;
+			font-weight: bold;
+			height: 450px;
+			overflow: auto;
+		}
+
+#form3 
+		{ 
+			background-color:#E6E6E6;
+			width:35%;border:15px ridge green;
+			padding:20px;
+			border-radius:25px;
+			color:#08088A;
+			box-shadow:5px 5px yellow;
+			text-align:justify;
+			font-weight: bold;
+			height: 450px;
+			overflow: auto;
+		}		
+		
+#form4 
+		{ 
+			background-color:#E6E6E6;
+			width:35%;border:15px ridge green;
+			padding:20px;
+			border-radius:25px;
+			color:#08088A;
+			box-shadow:5px 5px yellow;
+			float:left;
+			text-align:justify;
+			font-weight: bold;
+			height: 450px;
+			overflow: auto;
+		}		
+		
+#form5
+
+		{ 
+			background-color:white;
+			width:35%;border:15px ridge green;
+			padding:20px;
+			border-radius:25px;
+			color:#08088A;
+			box-shadow:5px 5px yellow;
+			float:right;
+			text-align:justify;
+			font-weight: bold;
+			height: 450px;
+			overflow: auto;
+		}		
+		
+h3
+		{
+			text-align:center;
+			Color: #8A0808;
+			text-decoration:none; 
+		}	
+		
+#img3 	{
+			float: right;
+			box-shadow:20px 20px 45px red, -20px -20px 100px #122973;
+			
+		}	
+		
+footer  {
+			
+			color:black;
+			font-weight: bold;
+			clear:both;
+			text-align:center;
+			padding:10px;	
+			border-bottom: thick dotted #122973;
+		}
+
+li		{
+			text-align:left;
+		}
+
+#li3	{
+			text-align:center;
+			font-weight: bold;
+			font-size: 35px;
+			list-style-type: none;
+		}
+

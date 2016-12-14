@@ -1,0 +1,62 @@
+<!doctype html>
+<html>
+
+<head>
+	<title> Foods2Share </title>
+		<link href="Food2Share.css" rel="stylesheet" type="text/css"/>
+		<meta charset="utf-8"/>
+</head>
+
+
+<body>
+
+<header align="center">
+	<div id="header3">
+		<img  src="foods2share.png" ;>
+	</div>
+</header>
+
+		<hr>
+		
+<table style="border-style: none">
+	<tr>
+		<td >		<a href="Index.html"> <img src="Food2share.jpg" width="150" height="100" alt="Home"/><br> HOME </a> </td>
+		
+		<td >|</td>
+		<td >		<a href="EVENTS.html">	<img src="Food2share.jpg" width="150" height="100" alt="EVENTS"/><br> EVENTS </a> </td>
+		
+		<td >|</td>
+		<td >		<a href="DONATIONS.html">	<img src="Food2share.jpg" width="150" height="100" alt="DONATIONS" /><br> DONATIONS </a> </td>
+		
+		<td >|</td>
+		<td >		<a href="FEEDBACK.html">	<img src="Food2share.jpg" width="150" height="100" alt="FEEDBACK" /><br> FEEDBACK  </a> </td>
+		
+		<td >|</td>
+		<td >		<a href="FAQ.html">	<img src="Food2share.jpg" width="150" height="100" alt="FAQ" /><br> FAQ  </a> </td>
+	</tr>
+</table>
+
+<br><br><br><br>
+
+
+	<section>
+		<h3> Welcome to the Foods2Share Bronx Website<br> About Us </h3>
+			Foods2Share is a non-profit organization in the Bronx dedictated to fighting hunger within the Bronx. We have partnered with Stop and Shop and Morton Williams supermarkets to make our goals succeed. We handle perishable goods that have two weeks to their expiration date and give them to those in need. Donations are accepted and if there are any questions, please refer to the FAQ page and you may find your answer there. If not, you can always fill out our form on the feedback page and submit it to us.
+			<br> <br>
+			Keeping this free resource updated is a collaborative effort and will benefit families and individuals in need. Thank you for your support.
+	</section>
+
+
+<div id="img3">
+	<img  src="ServingFood.jpg" style="width:700px; height:450px;"  alt="infiniti">
+</div>
+
+<br> 
+
+<footer>
+	Copyright 2015. Food2Share
+</footer>
+
+</body>
+
+</html>
